@@ -1,0 +1,22 @@
+{
+  //upstreamPathTemplate = her vi reciver vores request
+  //downstreamPathTemplete = hvor vi sender den videre til
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/api/WeatherForecast",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7206
+        }
+      ],
+      "DownstreamPathTemplate": "/WeatherForecast"
+    }
+
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://localhost:800"
+  }
+}
