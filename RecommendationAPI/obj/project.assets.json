@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RecommendationAPI\\RecommendationAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RecommendationAPI\\RecommendationAPI.csproj",
       "projectName": "RecommendationAPI",
-      "projectPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RecommendationAPI\\RecommendationAPI.csproj",
-      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RecommendationAPI\\obj\\",
+      "projectPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RecommendationAPI\\RecommendationAPI.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RecommendationAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

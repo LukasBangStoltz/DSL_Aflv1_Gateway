@@ -1,22 +1,42 @@
 {
-  //upstreamPathTemplate = her vi reciver vores request
+  //upstreamPathTemplate = her vi reciever vores request
   //downstreamPathTemplete = hvor vi sender den videre til
   "Routes": [
     {
-      "UpstreamPathTemplate": "/api/WeatherForecast",
+      "UpstreamPathTemplate": "/api/Film",
       "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7206
+          "Port": 7106
         }
       ],
-      "DownstreamPathTemplate": "/WeatherForecast"
+      "DownstreamPathTemplate": "/api/Film",
+      "Key":  "Film"
+    },
+    {
+      "UpstreamPathTemplate": "/api/Rating",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7029
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Rating",
+      "Key":  "Rating"
     }
 
   ],
-  "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:800"
-  }
+  "Aggregates": [
+    {
+      "ReRouteKeys": [
+        "Film",
+        "Rating"
+      ],
+      "UpstreamPathTemplate": "/api/AllFilms"
+    }
+  ]
 }

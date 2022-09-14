@@ -224,19 +224,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lukas\\.nuget\\packages\\": {}
+    "C:\\Users\\sebas\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\FilmAPI\\FilmAPI.csproj",
+      "projectUniqueName": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\FilmAPI\\FilmAPI.csproj",
       "projectName": "FilmAPI",
-      "projectPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\FilmAPI\\FilmAPI.csproj",
-      "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\FilmAPI\\obj\\",
+      "projectPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\FilmAPI\\FilmAPI.csproj",
+      "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\FilmAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

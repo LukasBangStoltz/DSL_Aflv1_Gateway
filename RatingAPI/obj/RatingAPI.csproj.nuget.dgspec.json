@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RatingAPI\\RatingAPI.csproj": {}
+    "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RatingAPI\\RatingAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RatingAPI\\RatingAPI.csproj": {
+    "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RatingAPI\\RatingAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RatingAPI\\RatingAPI.csproj",
+        "projectUniqueName": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RatingAPI\\RatingAPI.csproj",
         "projectName": "RatingAPI",
-        "projectPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RatingAPI\\RatingAPI.csproj",
-        "packagesPath": "C:\\Users\\lukas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukas\\Skrivebord\\SOFT 2 SEM\\Udvikling Af Store Systemer\\Afleveringer\\First_Task\\RatingAPI\\obj\\",
+        "projectPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RatingAPI\\RatingAPI.csproj",
+        "packagesPath": "C:\\Users\\sebas\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sebas\\Desktop\\DSL_Aflv1_Gateway\\RatingAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lukas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\sebas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

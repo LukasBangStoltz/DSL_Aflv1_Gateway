@@ -9,7 +9,7 @@ builder.Configuration.SetBasePath(builder.Environment.ContentRootPath)
 builder.Services.AddOcelot(builder.Configuration);
 
 var app = builder.Build();
-await app.UseOcelot();
+app.UseOcelot();
 
 
 app.Run();
